@@ -52,8 +52,8 @@ Welcome to the Mereb Tech Challenge! This project is built using Go, Gin framewo
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/mereb-tech-challenge.git
-   cd mereb-tech-challenge
+   git clone https://github.com/yordil/GoCrudChallange.git
+   cd GoCrudChallange
    ```
 
 2. **Install Go**
