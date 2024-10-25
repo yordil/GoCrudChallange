@@ -1,4 +1,3 @@
-Here's a comprehensive README.md template that outlines the setup, running the application, and accessing Swagger documentation. You can modify it as needed to suit your project specifics.
 
 ````markdown
 # Mereb Tech Challenge
